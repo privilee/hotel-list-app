@@ -54,7 +54,7 @@ We don't expect you to spend more then two hours on this test, and it is okay if
 
 ## Deliverables
 
-1. A complete Flutter project with all source code
+1. A git repository with a complete Flutter project with all source code
 2. Documentation explaining:
    - Project architecture
    - How to run the application
